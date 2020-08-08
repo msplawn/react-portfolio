@@ -7,7 +7,7 @@ A React app portfolio.
 [Deployed Github Page](https://msplawn.github.io/react-portfolio/)
 
 # **Screencaps:**
-![Screencap](./public/1.png)  
+![Screencap](./src/assets/images/portfoliohome.png)  
 
 # **Installation**
 View the live link and hire me!

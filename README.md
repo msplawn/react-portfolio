@@ -4,7 +4,7 @@
 A React app portfolio.
 
 # **Live Link**
-[Deployed Github Page](https://msplawn.github.io/)
+[Deployed Github Page](https://msplawn.github.io/react-portfolio/)
 
 # **Screencaps:**
 ![Screencap](./public/1.png)  
